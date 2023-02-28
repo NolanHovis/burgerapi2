@@ -1,0 +1,83 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Cheddar Stuffed Burger",
+      "contains": ["meat", "gluten", "dairy"],
+      "ingredients": [
+        "Kosher Salt",
+        "Green Cabbage",
+        "Distilled White Vinegar",
+        "Sugar",
+        "Yellow Mustard Seed",
+        "Shallots",
+        "Olive Oil",
+        "Wondra Flour",
+        "Ground Beef",
+        "Onion Powder",
+        "Garlic Powder",
+        "Smoked Paprika",
+        "Worcestershire Sauce",
+        "Ground Pepper",
+        "Extra Sharp Cheddar Cheese",
+        "Baby Arugula",
+        "Brioche Bun"
+      ],
+      "tags": []
+    },
+    {
+      "id": 1,
+      "name": "Nacho Burger",
+      "contains": ["meat", "gluten", "dairy"],
+      "ingredients": [
+        "Salt",
+        "Red Wine Vinegar",
+        "Chipotle Chile",
+        "Plum Tomatoes",
+        "Red Onion",
+        "Olive Oil",
+        "Cilantro",
+        "Unsalted Butter",
+        "Flour",
+        "Milk",
+        "Monterey Jack Cheese",
+        "Pecorino Cheese",
+        "Ground Pepper",
+        "Ground Beef",
+        "Jalapenos",
+        "Wonder Bun"
+      ],
+      "tags": []
+    },
+    {
+      "id": 2,
+      "name": "Smoky Tempeh Burger",
+      "contains": [],
+      "ingredients": [
+        "Salt",
+        "Red Onion",
+        "Crushed Garlic",
+        "Chestnut Mushrooms",
+        "Smoked Paprika",
+        "Olive Oil",
+        "Cumin",
+        "Hot Chili Powder",
+        "Miso Paste",
+        "Water",
+        "Tempeh",
+        "Black Beans",
+        "Sweet Corn",
+        "Fresh Coriander",
+        "Lime Juice",
+        "Flax Seed",
+        "Salt",
+        "Flour",
+        "Vegan Buns",
+        "Lettuce",
+        "Avocado",
+        "Ketchup"
+      ],
+      "tags": ["Vegan", "Gluten Free"]
+    }
+  ]
+}
